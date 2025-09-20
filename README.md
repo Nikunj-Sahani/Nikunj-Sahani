@@ -1,4 +1,4 @@
-![logo](https://github.com/Nikunj-Sahani/Nikunj-Sahani/blob/main/Banner1.jpg)
+![logo](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
   <h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm 𝐍𝐢𝐤𝐮𝐧𝐣 𝐊𝐮𝐦𝐚𝐫 𝐒𝐚𝐡𝐚𝐧𝐢</h1>
 <h3 align="center">𝗣𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝘁𝗼 𝗖𝘆𝗯𝗲𝗿 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 & 𝗗𝗶𝗴𝗶𝘁𝗮𝗹 𝗙𝗼𝗿𝗲𝗻𝘀𝗶𝗰𝘀</h3>
 
@@ -8,7 +8,7 @@
 
 <h2 id="-connect-with-me"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About me / Intro</h2>
 
-<p><img align="right" src="https://github.com/Nikunj-Sahani/Nikunj-Sahani/blob/main/Right.gif" alt="Nikunj"></p>
+<p><img align="right" src="https://github.com/Nikunj-Sahani/Nikunj-Sahani/blob/main/Load.gif" alt="Nikunj"></p>
 
 A strong focus on **Cybersecurity , Penetration Testing and Digital forensics** <br>
 <br>🎀**Current Learning Course**🎀<br>♙ » 𝙲𝚢𝚋𝚎𝚛 𝚂𝚎𝚌𝚞𝚛𝚒𝚝𝚢 𝙳𝚒𝚙𝚕𝚘𝚖𝚊 — 𝗗𝗶𝗰𝗲 𝗔𝗰𝗮𝗱𝗲𝗺𝘆 <br>♙ » 𝙱𝚂𝙲𝙿 (𝙱𝚞𝚛𝚙 𝚂𝚞𝚒𝚝𝚎 𝙲𝚎𝚛𝚝𝚒𝚏𝚒𝚎𝚍 𝙿𝚛𝚘𝚏𝚎𝚜𝚜𝚒𝚘𝚗𝚊𝚕) — 𝗣𝗼𝗿𝘁𝗦𝘄𝗶𝗴𝗴𝗲𝗿 <br>♙ » 𝙸𝚗𝚟𝚎𝚜𝚝𝚒𝚐𝚊𝚝𝚒𝚘𝚗 𝚃𝚎𝚌𝚑𝚗𝚒𝚚𝚞𝚎𝚜 - 𝗛𝗲𝗹𝗽 𝗯𝘆 𝗖𝗕𝗶 𝗮𝗻𝗱 𝗙𝗼𝗿𝗲𝗻𝘀𝗶𝗰 𝗦𝘁𝘂𝗱𝗲𝗻𝘁𝘀
