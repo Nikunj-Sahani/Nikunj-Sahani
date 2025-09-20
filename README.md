@@ -8,7 +8,7 @@
 
 <h2 id="-connect-with-me"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About me / Intro</h2>
 
-<p><img align="right" src="https://phoneky.co.uk/thumbs/screensavers/down/abstract/menelctric_CaCubnzY.gif" alt="Nikunj"></p>
+<p><img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="Nikunj"></p>
 
 A strong focus on **Cybersecurity , Penetration Testing and Digital forensics** <br>
 <br>🎀**Current Learning Course**🎀<br>♙ » 𝙲𝚢𝚋𝚎𝚛 𝚂𝚎𝚌𝚞𝚛𝚒𝚝𝚢 𝙳𝚒𝚙𝚕𝚘𝚖𝚊 — 𝗗𝗶𝗰𝗲 𝗔𝗰𝗮𝗱𝗲𝗺𝘆 <br>♙ » 𝙱𝚂𝙲𝙿 (𝙱𝚞𝚛𝚙 𝚂𝚞𝚒𝚝𝚎 𝙲𝚎𝚛𝚝𝚒𝚏𝚒𝚎𝚍 𝙿𝚛𝚘𝚏𝚎𝚜𝚜𝚒𝚘𝚗𝚊𝚕) — 𝗣𝗼𝗿𝘁𝗦𝘄𝗶𝗴𝗴𝗲𝗿 <br>♙ » 𝙸𝚗𝚟𝚎𝚜𝚝𝚒𝚐𝚊𝚝𝚒𝚘𝚗 𝚃𝚎𝚌𝚑𝚗𝚒𝚚𝚞𝚎𝚜 - 𝗛𝗲𝗹𝗽 𝗯𝘆 𝗖𝗕𝗶 𝗮𝗻𝗱 𝗙𝗼𝗿𝗲𝗻𝘀𝗶𝗰 𝗦𝘁𝘂𝗱𝗲𝗻𝘁𝘀
