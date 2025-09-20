@@ -81,7 +81,7 @@ A strong focus on **Cybersecurity , Penetration Testing and Digital forensics** 
 ### 🔝 Top Contributed Repo
 <p> 
   <img src="https://github-contributor-stats.vercel.app/api?username=Nikunj-Sahani&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="GitHub Contributions">
-  <img align="right" src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="280" width="500" alt="GIF"></p>
+  <img align="right" src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="280" width="400" alt="GIF"></p>
 
 <p><img align="right" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" alt="Nikunj"></p>
 
