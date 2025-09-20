@@ -30,7 +30,7 @@ A strong focus on **Cybersecurity , Penetration Testing and Digital forensics** 
 <br>​🇴​​🇺​​🇷​ ​🇬​​🇴​​🇦​​🇱​ ​🇮​​🇸​ ​🇹​​🇴​ ​🇧​​🇷​​🇮​​🇳​​🇬​ ​🇦​​🇱​​🇱​ ​🇲​​🇦​​🇯​​🇴​​🇷​ ​🇨​​🇾​​🇧​​🇪​​🇷​​🇸​​🇪​​🇨​​🇺​​🇷​​🇮​​🇹​​🇾​ ​🇹​​🇴​​🇴​​🇱​​🇸​ ​🇹​​🇴​​🇬​​🇪​​🇹​​🇭​​🇪​​🇷​ ​🇮​​🇳​ ​🇴​​🇳​​🇪​ ​🇵​​🇱​​🇦​​🇨​​🇪​, ​🇲​​🇦​​🇰​​🇮​​🇳​​🇬​ ​🇹​​🇭​​🇪​ ​🇱​​🇪​​🇦​​🇷​​🇳​​🇮​​🇳​​🇬​ ​🇪​​🇽​​🇵​​🇪​​🇷​​🇮​​🇪​​🇳​​🇨​​🇪​ ​🇸​​🇮​​🇲​​🇵​​🇱​​🇪​, ​🇵​​🇷​​🇦​​🇨​​🇹​​🇮​​🇨​​🇦​​🇱​, ​🇦​​🇳​​🇩​ ​🇪​​🇫​​🇫​​🇪​​🇨​​🇹​​🇮​​🇻​​🇪​.
 <br>​🇹​​🇭​​🇪​ ​🇵​​🇱​​🇦​​🇹​​🇫​​🇴​​🇷​​🇲​ ​🇼​​🇮​​🇱​​🇱​ ​🇦​​🇱​​🇸​​🇴​ ​🇪​​🇳​​🇦​​🇧​​🇱​​🇪​ ​🇩​​🇮​​🇷​​🇪​​🇨​​🇹​ ​🇨​​🇴​​🇱​​🇱​​🇦​​🇧​​🇴​​🇷​​🇦​​🇹​​🇮​​🇴​​🇳​ ​🇼​​🇮​​🇹​​🇭​ ​🇱​​🇦​​🇼​ ​🇪​​🇳​​🇫​​🇴​​🇷​​🇨​​🇪​​🇲​​🇪​​🇳​​🇹​ ​🇦​​🇬​​🇪​​🇳​​🇨​​🇮​​🇪​​🇸​, ​🇦​​🇱​​🇱​​🇴​​🇼​​🇮​​🇳​​🇬​ ​🇵​​🇷​​🇴​​🇫​​🇪​​🇸​​🇸​​🇮​​🇴​​🇳​​🇦​​🇱​​🇸​ ​🇦​​🇳​​🇩​ ​🇱​​🇪​​🇦​​🇷​​🇳​​🇪​​🇷​​🇸​ ​🇹​​🇴​ ​🇪​​🇳​​🇬​​🇦​​🇬​​🇪​ ​🇮​​🇳​ ​🇷​​🇪​​🇦​​🇱​-​🇼​​🇴​​🇷​​🇱​​🇩​ ​🇨​​🇾​​🇧​​🇪​​🇷​ ​🇮​​🇳​​🇻​​🇪​​🇸​​🇹​​🇮​​🇬​​🇦​​🇹​​🇮​​🇴​​🇳​ ​🇸​​🇨​​🇪​​🇳​​🇦​​🇷​​🇮​​🇴​​🇸​.
 
-### ----------------------------------------------------------------------------------------------------------------------------
+### ----------------------------------------------------------------------------------------------------------------------
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/“Knowledge%20my%20sword%20,%20cybersecurity%20my%20shield%20--%20Defender%20of%20data%20,%20warrior%20of%20cyberspace”-FEDC00?style=for-the-badge&logoColor=black" alt="Quote1"></a><br>
 <a href="#"><img src="https://img.shields.io/badge/We%20are%20the%20guardians%20of%20digital%20space-0000FF?style=for-the-badge&logoColor=black" alt="Quote3"></a><br>
@@ -57,8 +57,8 @@ A strong focus on **Cybersecurity , Penetration Testing and Digital forensics** 
 <a href="https://www.torproject.org/"><img src="https://img.shields.io/badge/TOR-7E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white" alt="TOR"></a>
 <a href="https://www.sleuthkit.org/autopsy/"><img src="https://img.shields.io/badge/Autopsy-000000.svg?style=for-the-badge&logo=autopsy&logoColor=white" alt="Autopsy"></a>
 <a href="https://portswigger.net/web-security"><img src="https://img.shields.io/badge/PortSwigger%20Labs-EE7624.svg?style=for-the-badge&logo=portswigger&logoColor=white" alt="PortSwigger Labs"></a>
-<a href="https://accessdata.com/product-download/ftk-imager-version-4-2"><img src="https://img.shields.io/badge/FTK%20Imager-0078D7.svg?style=for-the-badge&logo=ftk&logoColor=white" alt="FTK Imager"></a>
 
+<a href="https://accessdata.com/product-download/ftk-imager-version-4-2"><img src="https://img.shields.io/badge/FTK%20Imager-0078D7.svg?style=for-the-badge&logo=ftk&logoColor=white" alt="FTK Imager"></a>
 <a href="https://nmap.org/"><img src="https://img.shields.io/badge/Nmap-9BE051.svg?style=for-the-badge&logo=nmap&logoColor=black" alt="Nmap"></a>
 <a href="https://tryhackme.com/"><img src="https://img.shields.io/badge/TryHackMe-FF0000.svg?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"></a>
 <a href="https://www.isc2.org/"><img src="https://img.shields.io/badge/ISC2-1F4788.svg?style=for-the-badge&logo=isc2&logoColor=white" alt="ISC2"></a></p>
@@ -79,9 +79,9 @@ A strong focus on **Cybersecurity , Penetration Testing and Digital forensics** 
 ![](https://github-profile-trophy.vercel.app/?username=Nikunj-Sahani&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-<p align="center">
+<p> 
   <img src="https://github-contributor-stats.vercel.app/api?username=Nikunj-Sahani&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="GitHub Contributions">
-  <img align="right" src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="280" width="400" alt="GIF"></p>
+  <img align="right" src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="280" width="500" alt="GIF"></p>
 
 <p><img align="right" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" alt="Nikunj"></p>
 
