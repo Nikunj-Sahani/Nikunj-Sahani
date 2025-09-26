@@ -8,6 +8,7 @@
 
 <a href="https://github.com/Nikunj-Sahani"><img src="https://img.shields.io/badge/Follow%20me%20%40GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Follow me @GitHub"></a>
 <a href="mailto:nikunj.asustuf@gmail.com"><img src="https://img.shields.io/badge/Professional%20work%20%40Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="#"><img src="https://img.shields.io/badge/You%20can%20Meet%20me%20in%20Delhi%20-0000FF?style=for-the-badge&logoColor=black" alt="Quote3"></a>
 
 ## 🌐 Connect with me:
 <p align="center">
