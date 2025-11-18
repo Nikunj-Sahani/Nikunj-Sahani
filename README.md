@@ -38,6 +38,8 @@ A strong focus on **Cybersecurity , Penetration Testing and Digital forensics** 
 <a href="#"><img src="https://img.shields.io/badge/“In%20the%20world%20of%20Cyber%20Shadow%20,%20I%20Follow%20the%20Evidence%20--%20Digital%20footprints%20never%20Lies%20,%20I%20make%20them%20Speak”-FEDC00?style=for-the-badge&logoColor=black" alt="Quote1"></a><br>
 </p>
 
+### ----------------------------------------------------------------------------------------------------------------------
+
 ## 💻 Language:
 
 <!-- First row -->
