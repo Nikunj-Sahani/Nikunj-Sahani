@@ -22,7 +22,7 @@
 <p><img align="right" src="https://github.com/Nikunj-Sahani/Nikunj-Sahani/blob/main/Load.gif" alt="Nikunj"></p>
 
 A strong focus on **Cybersecurity , Penetration Testing and Digital forensics** <br>
-<br>🎀**Current Learning Course**🎀<br>♙ »  𝗖𝗥𝗧𝗔 ( Certified Red Team Analyst ) — 𝗖𝗪𝗟<br>♙ » 𝗕𝗦𝗖𝗣 ( 𝙱𝚞𝚛𝚙 𝚂𝚞𝚒𝚝𝚎 𝙲𝚎𝚛𝚝𝚒𝚏𝚒𝚎𝚍 𝙿𝚛𝚊𝚌𝚝𝚒𝚝𝚒𝚘𝚗𝚎𝚛 ) — 𝗣𝗼𝗿𝘁𝗦𝘄𝗶𝗴𝗴𝗲𝗿 <br>♙ » 𝗖𝗘𝗛 - CყႦҽɾYααɳ<br>♙ » 𝗖𝘆𝗯𝗲𝗿 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗗𝗶𝗽𝗹𝗼𝗺𝗮 - CყႦҽɾYααɳ <br><br>🎀 **Certifications**🎀<br>♙ » 𝙱𝙲𝙰 𝙶𝚛𝚊𝚍𝚞𝚊𝚝𝚎 - 𝗠𝗮𝗻𝗶𝗽𝗮𝗹 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆, 𝗝𝗮𝗶𝗽𝘂𝗿<br>♙ » 𝙸𝚂𝙲𝙿 (𝙸𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚘𝚗 𝚂𝚎𝚌𝚞𝚛𝚒𝚝𝚢) — 𝗞𝗿𝗮𝗱𝗲𝗺𝘆, 𝗡𝗼𝗶𝗱𝗮<br>
+<br>🎀**Current Learning Course**🎀<br>♙ »  𝗖𝗥𝗧𝗔 ( Certified Red Team Analyst ) — 𝗖𝗪𝗟<br>♙ » 𝗕𝗦𝗖𝗣 ( 𝙱𝚞𝚛𝚙 𝚂𝚞𝚒𝚝𝚎 𝙲𝚎𝚛𝚝𝚒𝚏𝚒𝚎𝚍 𝙿𝚛𝚊𝚌𝚝𝚒𝚝𝚒𝚘𝚗𝚎𝚛 ) — 𝗣𝗼𝗿𝘁𝗦𝘄𝗶𝗴𝗴𝗲𝗿 <br>♙ » 𝙱𝙲𝙰 𝙶𝚛𝚊𝚍𝚞𝚊𝚝𝚎 - 𝗠𝗮𝗻𝗶𝗽𝗮𝗹 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆, 𝗝𝗮𝗶𝗽𝘂𝗿<br>♙ » 𝙸𝚂𝙲𝙿 (𝙸𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚘𝚗 𝚂𝚎𝚌𝚞𝚛𝚒𝚝𝚢) — 𝗞𝗿𝗮𝗱𝗲𝗺𝘆, 𝗡𝗼𝗶𝗱𝗮<br>
 <br>🏆 **Internships & Experience - 2024 and 2025** 🏆<br> ¤ 𝙀𝙃𝘾𝘾𝙞 (𝙀𝙩𝙝𝙞𝙘𝙖𝙡 𝙃𝙖𝙘𝙠𝙞𝙣𝙜 & 𝘾𝙮𝙗𝙚𝙧 𝘾𝙧𝙞𝙢𝙚 𝙄𝙣𝙫𝙚𝙨𝙩𝙞𝙜𝙖𝙩𝙞𝙤𝙣) — Ranchi , Jharkhand  <br> ¤ 𝘼𝙋𝘾𝙎𝙄𝙋 (𝘼𝙢𝙧𝙤𝙝𝙖 𝙋𝙤𝙡𝙞𝙘𝙚  𝘾𝙮𝙗𝙚𝙧 𝙎𝙚𝙘𝙪𝙧𝙞𝙩𝙮 𝙄𝙣𝙩𝙚𝙧𝙣𝙨𝙝𝙞𝙥 𝙋𝙧𝙤𝙜𝙧𝙖𝙢) - Amroha , UP<br><br>🏆 **Achievements** 🏆<br> ¤ Ranked 𝗧𝗼𝗽 𝟴% 𝗼𝗻 𝗧𝗿𝘆𝗛𝗮𝗰𝗸𝗠𝗲<br>
 <br>💢 **Project - Coming Soon** 💢<br>I’m working on a groundbreaking **Cybersecurity Learning & Investigation Platform** unlike anything you’ve seen before. 🚀
 
